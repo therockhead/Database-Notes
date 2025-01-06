@@ -1,4 +1,4 @@
 # Database-Notes
 -----------------
 
-Creating, Deleting database [a relative link](Initial.md)
+[Creating & Deleting Database on MySQL](Initial.md)
