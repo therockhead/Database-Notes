@@ -1,4 +1,4 @@
-```CREATE database_name;```- for creatng database
+```CREATE database_name;```- for creating database
 
 ```USE database_name;``` - for using as default scheme
 
