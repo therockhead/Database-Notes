@@ -1,6 +1,5 @@
-Using the database named "asifdb"
-
-creating table with their data type
+-Using the database named "asifdb"
+-creating table with their data type
 
 **DECIMAL(decimal_part_size, precision_point)**
 ```
@@ -11,4 +10,5 @@ CREATE TABLE employees (
     last_Name VARCHAR(50),
     hourlyPay DECIMAL(5, 2),
     hireDate DATE
-);```
+);
+```
