@@ -4,3 +4,5 @@
 ```CREATE database_name;```- for creatng database
 
 ```USE database_name;``` - for using as default scheme
+
+click here [a relative link](Initial.md)
