@@ -76,5 +76,16 @@ AFTER last_Name;
 T
 he Email is now after last_Name.
 
+We can also move the "Email" Column at the first position by adding FIRST keyword
+
+```
+ALTER TABLE workers
+MODIFY Email VARCHAR(100)
+FIRST;
+```
+
+![image](https://github.com/user-attachments/assets/89766c22-4684-4f9c-9e7e-2057f0dd6784)
+
+
 
 
